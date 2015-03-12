@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smooth Scrolling</string>
+    <string name="to_top">To Top</string>
+    <string name="to_bottom">To Bottom</string>
+    <string name="item_string">Item %1$d</string>
+</resources>
